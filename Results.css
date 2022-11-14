@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial;
+    padding: 20px;
+    background: #f1f1f1;
+    background-color: rgb(21, 29, 29);
+  }
+  
+  /* Header/Blog Title */
+  .header {
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    background: white;
+    background-image: url(Images/HeaderEducation.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px ;
+    color: white;
+  }
+  
+
+  
+ 
+  
+
+ 
+  
+  /* Add a card effect for articles */
+  .card {
+    background-color: rgb(216, 243, 249);
+    padding: 20px;
+    margin-top: 210px;
+    width: 600px;
+    height: 200px;
+    
+  }
+
+  .card1 {
+    background-color: rgb(216, 243, 249);
+    padding: 20px;
+    margin-top: 20px;
+    width: 600px;
+    height: 200px;
+    
+    
+  }
+
+  .card3 {
+    background-color: rgb(216, 243, 249);
+    padding: 20px;
+    margin-top: 20px;
+    width: 600px;
+    height: 200px;
+    
+  }
+
+  .card4{
+    background-color: rgb(216, 243, 249);
+    padding: 20px;
+    margin-top: 20px;
+    width: 600px;
+    height: 200px;
+  }
+
+
+.wrapper{
+    display: block;
+    margin-top: -10%;
+
+}
+
+
+
+.body-container{
+    margin-top: -200px;
+   
+    gap: 10px;
+}
+
+.Image1{
+  margin-left: 185%;
+  margin-top: -35%;
+}
+
+.Image2{
+  margin-left: 105%;
+  margin-top: -74%;
+  display: flex;
+}
+
+.Subimage2{
+  margin-top: -28.5%;
+  margin-left: 45%;
+  padding-left: 400px;
+  
+}
+
+.Image3{
+  margin-left: 105%;
+  margin-top: -31%;
+}
+
